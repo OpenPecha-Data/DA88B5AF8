@@ -4277,13 +4277,13 @@ annotations:
     reference: ''
     span:
       start: 828482
-      end: 829832
+      end: 829831
     note_ref: 4a228b6599e54edbb0f3518d178691a7
   8dd2f40677764ed6b6e0728323369e15:
     imgnum: 1622
     reference: ''
     span:
-      start: 829834
+      start: 829833
       end: 831176
     note_ref: 4a228b6599e54edbb0f3518d178691a7
   85a6caa0b68d484091cd7788c222424e:
